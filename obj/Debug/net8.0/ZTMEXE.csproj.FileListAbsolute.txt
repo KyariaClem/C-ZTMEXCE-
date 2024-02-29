@@ -12,3 +12,4 @@
 /Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/obj/Debug/net8.0/ZTMEXE.pdb
 /Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/obj/Debug/net8.0/ZTMEXE.genruntimeconfig.cache
 /Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/obj/Debug/net8.0/ref/ZTMEXE.dll
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/obj/Debug/net8.0/ZTMEXE.sourcelink.json
