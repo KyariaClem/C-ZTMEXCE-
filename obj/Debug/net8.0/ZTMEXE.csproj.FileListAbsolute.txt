@@ -1,0 +1,14 @@
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/bin/Debug/net8.0/ZTMEXE
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/bin/Debug/net8.0/ZTMEXE.deps.json
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/bin/Debug/net8.0/ZTMEXE.runtimeconfig.json
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/bin/Debug/net8.0/ZTMEXE.dll
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/bin/Debug/net8.0/ZTMEXE.pdb
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/obj/Debug/net8.0/ZTMEXE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/obj/Debug/net8.0/ZTMEXE.AssemblyInfoInputs.cache
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/obj/Debug/net8.0/ZTMEXE.AssemblyInfo.cs
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/obj/Debug/net8.0/ZTMEXE.csproj.CoreCompileInputs.cache
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/obj/Debug/net8.0/ZTMEXE.dll
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/obj/Debug/net8.0/refint/ZTMEXE.dll
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/obj/Debug/net8.0/ZTMEXE.pdb
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/obj/Debug/net8.0/ZTMEXE.genruntimeconfig.cache
+/Users/kyariaclemons/Desktop/kyaria-webdev/ZTMEXE/obj/Debug/net8.0/ref/ZTMEXE.dll
